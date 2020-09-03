@@ -69,7 +69,7 @@ const App = () => {
                 </View>
               <View>
                 <Text style={styles.tx1}>Don't have an account? 
-                  <Text style={styles.tx2}>Register Now</Text>
+                  <Text style={styles.tx2}>Register Now!</Text>
                 </Text>
               </View>
               </View>
